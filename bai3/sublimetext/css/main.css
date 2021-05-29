@@ -1,0 +1,54 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+header{
+    width: 100%;
+}
+.navbar-nav li a{
+    color: #fff;
+    font-size : 15px;
+}
+.btn-color{
+    background-color: #867c20 ;
+    color: #fff;
+}
+
+.bg-dark{
+    background-color: #867c20 !important;
+    color: #fff;
+}
+#texttracuu {
+    color: red;
+    font-size: 18px;
+}
+
+
+.login_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.login_title {
+    font-size: 48px;
+    text-align: center;
+}
+.colo{
+    color: #fff;
+    padding-bottom: 15px;
+    margin-bottom : 5px; 
+    margin-left : 480px;
+    margin-top: 10px;
+}
+.dropdown-menu{
+    background-color: #867c20;
+}
+.customer{
+    margin-left : 20px;
+     margin-right : 50px ;
+     margin-top : 100px; 
+     width : 97%;
+}
